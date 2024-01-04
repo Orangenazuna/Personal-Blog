@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://kotokusunao.com</id>
     <title>Trash Box</title>
     <subtitle></subtitle>
-    <icon>http://example.com/assets/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>http://kotokusunao.com/assets/favicon.ico</icon>
+    <link href="http://kotokusunao.com" />
     <author>
       <name>Orange</name>
     </author>
     <updated>2023-12-30T15:00:00.000Z</updated>
     <entry>
-        <id>http://example.com/2023/12/31/WordsOfApex/WordsInApex/</id>
+        <id>http://kotokusunao.com/2023/12/31/WordsOfApex/WordsInApex/</id>
         <title>Apex学习之旅。</title>
-        <link rel="alternate" href="http://example.com/2023/12/31/WordsOfApex/WordsInApex/"/>
+        <link rel="alternate" href="http://kotokusunao.com/2023/12/31/WordsOfApex/WordsInApex/"/>
         <content type="html">&lt;h1 id=&#34;apex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apex&#34;&gt;#&lt;/a&gt; APEX&lt;/h1&gt;
 &lt;h2 id=&#34;中日语对应表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中日语对应表&#34;&gt;#&lt;/a&gt; 中日语对应表&lt;/h2&gt;
 </content>
-        <category term="APEX日语" scheme="http://example.com/categories/WordsOfApex/" />
-        <category term="APEX" scheme="http://example.com/tags/APEX/" />
+        <category term="APEX日语" scheme="http://kotokusunao.com/categories/WordsOfApex/" />
+        <category term="APEX" scheme="http://kotokusunao.com/tags/APEX/" />
         <updated>2023-12-30T15:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</id>
+        <id>http://kotokusunao.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</id>
         <title>低光照条件下的蠕变试验自动数值读取系统开发!</title>
-        <link rel="alternate" href="http://example.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/"/>
+        <link rel="alternate" href="http://kotokusunao.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/"/>
         <content type="html">&lt;h1 id=&#34;低照度图像增强计算机算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#低照度图像增强计算机算法&#34;&gt;#&lt;/a&gt; 低照度图像增强计算机算法&lt;/h1&gt;
 &lt;p&gt;为了解决在黑暗条件下无法识别蠕变实验指针问题。&lt;/p&gt;
 &lt;p&gt;[低光照图像增强算法汇总_低照度图像增强算法_Wanderer001 的博客 - CSDN 博客]&lt;/p&gt;
@@ -154,14 +154,14 @@
 &lt;p&gt;​	&lt;img data-src=&#34;https://raw.githubusercontent.com/Orangenazuna/Blog-pictures/main/Lowlight/image-20231221162942796.png&#34; alt=&#34;image-20231221162942796&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;实验可以通过摄像头以及感光元件进行精度确认，并且自动开启或关闭灯光，目前来说，在没有新的元件加入的情况下，该实验已经结束。&lt;/p&gt;
 </content>
-        <category term="学术垃圾清理" scheme="http://example.com/categories/AcademicTrash/" />
-        <category term="学术垃圾" scheme="http://example.com/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/" />
+        <category term="学术垃圾清理" scheme="http://kotokusunao.com/categories/AcademicTrash/" />
+        <category term="学术垃圾" scheme="http://kotokusunao.com/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/" />
         <updated>2023-12-29T15:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/12/21/WebsiteBuilding/Hello-world/</id>
+        <id>http://kotokusunao.com/2023/12/21/WebsiteBuilding/Hello-world/</id>
         <title>完成了个人Blog创建!</title>
-        <link rel="alternate" href="http://example.com/2023/12/21/WebsiteBuilding/Hello-world/"/>
+        <link rel="alternate" href="http://kotokusunao.com/2023/12/21/WebsiteBuilding/Hello-world/"/>
         <content type="html">&lt;h1 id=&#34;热烈庆祝我的blog网站成立&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#热烈庆祝我的blog网站成立&#34;&gt;#&lt;/a&gt; 热烈庆祝我的 Blog 网站成立！&lt;/h1&gt;
 &lt;p&gt;&amp;lt;u&amp;gt; 今天是一个特殊的日子 &amp;lt;/u&amp;gt;，我的&lt;strong&gt; Blog 网站&lt;/strong&gt;正式上线了！🎉🥳&lt;br /&gt;
 &lt;img data-src=&#34;https://github.com/Orangenazuna/Blog-pictures/blob/7432c0e140e5bac9ac5f92c560292373a09a97cb/Sticker_ly.jpg?raw=true&#34; alt=&#34;Eatting&#34; /&gt;&lt;/p&gt;
@@ -178,8 +178,8 @@
 &lt;li&gt;&lt;a href=&#34;https://img.tg/&#34;&gt;IMG 图床&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="从零开始网站建立" scheme="http://example.com/categories/WebsiteBuilding/" />
-        <category term="Blog搭建" scheme="http://example.com/tags/Blog%E6%90%AD%E5%BB%BA/" />
+        <category term="从零开始网站建立" scheme="http://kotokusunao.com/categories/WebsiteBuilding/" />
+        <category term="Blog搭建" scheme="http://kotokusunao.com/tags/Blog%E6%90%AD%E5%BB%BA/" />
         <updated>2023-12-20T15:00:00.000Z</updated>
     </entry>
 </feed>

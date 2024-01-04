@@ -3,8 +3,8 @@
     <channel>
         <title>Trash Box</title>
         <subtitle></subtitle>
-        <icon>http://example.com/assets/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>http://kotokusunao.com/assets/favicon.ico</icon>
+        <link>http://kotokusunao.com</link>
         <author>
           <name>Orange</name>
         </author>
@@ -13,22 +13,22 @@
         <pubDate>Sun, 31 Dec 2023 00:00:00 +0900</pubDate>
         <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0900</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2023/12/31/WordsOfApex/WordsInApex/</guid>
+            <guid isPermalink="true">http://kotokusunao.com/2023/12/31/WordsOfApex/WordsInApex/</guid>
             <title>Apex学习之旅。</title>
-            <link>http://example.com/2023/12/31/WordsOfApex/WordsInApex/</link>
-            <category term="APEX日语" scheme="http://example.com/categories/WordsOfApex/" />
-            <category term="APEX" scheme="http://example.com/tags/APEX/" />
+            <link>http://kotokusunao.com/2023/12/31/WordsOfApex/WordsInApex/</link>
+            <category term="APEX日语" scheme="http://kotokusunao.com/categories/WordsOfApex/" />
+            <category term="APEX" scheme="http://kotokusunao.com/tags/APEX/" />
             <pubDate>Sun, 31 Dec 2023 00:00:00 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;apex&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apex&#34;&gt;#&lt;/a&gt; APEX&lt;/h1&gt;
 &lt;h2 id=&#34;中日语对应表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中日语对应表&#34;&gt;#&lt;/a&gt; 中日语对应表&lt;/h2&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</guid>
+            <guid isPermalink="true">http://kotokusunao.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</guid>
             <title>低光照条件下的蠕变试验自动数值读取系统开发!</title>
-            <link>http://example.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</link>
-            <category term="学术垃圾清理" scheme="http://example.com/categories/AcademicTrash/" />
-            <category term="学术垃圾" scheme="http://example.com/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/" />
+            <link>http://kotokusunao.com/2023/12/30/AcademicTrash/LowLight-IoT-Creeptest/</link>
+            <category term="学术垃圾清理" scheme="http://kotokusunao.com/categories/AcademicTrash/" />
+            <category term="学术垃圾" scheme="http://kotokusunao.com/tags/%E5%AD%A6%E6%9C%AF%E5%9E%83%E5%9C%BE/" />
             <pubDate>Sat, 30 Dec 2023 00:00:00 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;低照度图像增强计算机算法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#低照度图像增强计算机算法&#34;&gt;#&lt;/a&gt; 低照度图像增强计算机算法&lt;/h1&gt;
 &lt;p&gt;为了解决在黑暗条件下无法识别蠕变实验指针问题。&lt;/p&gt;
@@ -162,11 +162,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/12/21/WebsiteBuilding/Hello-world/</guid>
+            <guid isPermalink="true">http://kotokusunao.com/2023/12/21/WebsiteBuilding/Hello-world/</guid>
             <title>完成了个人Blog创建!</title>
-            <link>http://example.com/2023/12/21/WebsiteBuilding/Hello-world/</link>
-            <category term="从零开始网站建立" scheme="http://example.com/categories/WebsiteBuilding/" />
-            <category term="Blog搭建" scheme="http://example.com/tags/Blog%E6%90%AD%E5%BB%BA/" />
+            <link>http://kotokusunao.com/2023/12/21/WebsiteBuilding/Hello-world/</link>
+            <category term="从零开始网站建立" scheme="http://kotokusunao.com/categories/WebsiteBuilding/" />
+            <category term="Blog搭建" scheme="http://kotokusunao.com/tags/Blog%E6%90%AD%E5%BB%BA/" />
             <pubDate>Thu, 21 Dec 2023 00:00:00 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;热烈庆祝我的blog网站成立&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#热烈庆祝我的blog网站成立&#34;&gt;#&lt;/a&gt; 热烈庆祝我的 Blog 网站成立！&lt;/h1&gt;
 &lt;p&gt;&amp;lt;u&amp;gt; 今天是一个特殊的日子 &amp;lt;/u&amp;gt;，我的&lt;strong&gt; Blog 网站&lt;/strong&gt;正式上线了！🎉🥳&lt;br /&gt;

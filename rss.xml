@@ -10,15 +10,15 @@
         </author>
         <description>请不要在此处乱丢垃圾</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 19 Mar 2024 00:00:00 +0900</pubDate>
-        <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0900</lastBuildDate>
+        <pubDate>Wed, 20 Mar 2024 00:00:00 +0900</pubDate>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0900</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://kotokusunao.com/2024/03/19/WebsiteBuilding/Web-Problem/</guid>
+            <guid isPermalink="true">http://kotokusunao.com/2024/03/20/WebsiteBuilding/Web-Problem/</guid>
             <title>网站遇到的问题及解决方法</title>
-            <link>http://kotokusunao.com/2024/03/19/WebsiteBuilding/Web-Problem/</link>
+            <link>http://kotokusunao.com/2024/03/20/WebsiteBuilding/Web-Problem/</link>
             <category term="从零开始网站建立" scheme="http://kotokusunao.com/categories/WebsiteBuilding/" />
             <category term="Blog搭建" scheme="http://kotokusunao.com/tags/Blog%E6%90%AD%E5%BB%BA/" />
-            <pubDate>Tue, 19 Mar 2024 00:00:00 +0900</pubDate>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 +0900</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;遇到的问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#遇到的问题&#34;&gt;#&lt;/a&gt; 遇到的问题：&lt;/h1&gt;
 &lt;h2 id=&#34;the-plain-http-request-was-sent-to-https-port&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-plain-http-request-was-sent-to-https-port&#34;&gt;#&lt;/a&gt; The plain HTTP request was sent to HTTPS port&lt;/h2&gt;
 &lt;p&gt;问题解决步骤：&lt;/p&gt;
